@@ -1,4 +1,4 @@
-import StudentWork from './exercises/lesson-01/studentWork';
+import StudentWork from './exercises/lesson 3/studentWork';
 
 function App() {
   return (
